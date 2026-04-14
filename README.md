@@ -1,6 +1,7 @@
 <div align="center">
 
 <h1>DINOv3 Guided Difference Feature Fusion for Remote Sensing Image Change Captioning: A Case Study on Macao Land Cover</a></h1>
+Publish in International Journal of Remote Sensing, [DOI:10.1080/01431161.2026.2655364](https://doi.org/10.1080/01431161.2026.2655364)
 
 </div>
 
