@@ -4,7 +4,9 @@
 Publish in International Journal of Remote Sensing, [DOI:10.1080/01431161.2026.2655364](https://doi.org/10.1080/01431161.2026.2655364)
 
 </div>
-cite this article
+
+
+### Citation
 ```
 @article{huang_rscc,
 author = {Junqing Huang and Jiaxuan Lin and Hong Lin and Xiaochen Yuan},
