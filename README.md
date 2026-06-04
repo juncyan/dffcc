@@ -4,7 +4,22 @@
 Publish in International Journal of Remote Sensing, [DOI:10.1080/01431161.2026.2655364](https://doi.org/10.1080/01431161.2026.2655364)
 
 </div>
-
+cite this article
+```
+@article{huang_rscc,
+author = {Junqing Huang and Jiaxuan Lin and Hong Lin and Xiaochen Yuan},
+title = {DINOv3 Guided difference feature fusion for remote sensing image change captioning: a case study on Macao land cover},
+journal = {International Journal of Remote Sensing},
+volume = {47},
+number = {11},
+pages = {4596--4618},
+year = {2026},
+publisher = {Taylor \& Francis},
+doi = {10.1080/01431161.2026.2655364},
+URL = {https://doi.org/10.1080/01431161.2026.2655364},
+eprint = {https://doi.org/10.1080/01431161.2026.2655364}
+}
+```
 
 ## MLCC Dataset 
 ![MLCC](images/datasample.png)
